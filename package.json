@@ -1,0 +1,11 @@
+{
+  "name": "stoicserver",
+  "version": "1.0.0",
+  "description": "API server for stoic bot",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
