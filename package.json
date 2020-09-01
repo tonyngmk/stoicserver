@@ -10,7 +10,7 @@
   },
   "keywords": [
     "json-server,heroku, node, REST API"
-  ]
+  ],
   "author": "Tony Ng",
   "license": "ISC",
   "dependencies": {
