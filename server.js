@@ -15,6 +15,11 @@ server.use(function (req, res, next) {
   // Continue to JSON Server router
   next()
 })
+server.post('/comments', function (req, res, next) {
+  req.method = 'GET'
+  req.query = req.body
+  next()
+})
 server.use(router);
 server.listen(port, function () {
   console.log('JSON Server is running')
