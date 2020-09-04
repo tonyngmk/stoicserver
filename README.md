@@ -4,7 +4,7 @@ It's just The Daily Stoic by Ryan Holiday passages hosted via Node JS json:serve
 
 ## 1. Pre-reqs
 1. Node JS: https://nodejs.org/en/download/
-2. npm i json-server
+2. JSON:Server: npm i json-server
 3. Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli
 
 
