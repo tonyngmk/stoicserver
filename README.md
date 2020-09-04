@@ -12,7 +12,7 @@ It's just The Daily Stoic by Ryan Holiday passages hosted via Node JS json:serve
 
 Recommended structure: https://jsonapi.org/
 
-There's rly no mandatory need for the structure, but it's helpful to know that the first key layer is a "web-page".
+There's really no mandatory need for the structure, but it's helpful to know that the first key layer is a "web-page".
 
 ## 2. Heroku Required files
 
